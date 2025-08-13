@@ -1,13 +1,13 @@
 {
-    "bot-name": "CypherX",
-    "description": "CypherX, your friendly assistant!",
+    "bot-name": "SCORPION X",
+    "description": "SCORPION X, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
     "keywords": [],
-    "documentation-link": "https://cypherxbot.vercel.app",
+    "documentation-link": "https://scorpionxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+      "description": "Must begin with 'XSCORPION-BOT:~' or 'SCORPION-X:~'.",
       "value": "",
       "required": false
     }
