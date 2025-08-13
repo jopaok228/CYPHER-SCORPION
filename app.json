@@ -1,9 +1,9 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
+  "name": "SCORPION X",
+  "description": "SCORPION X, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/jopaok228/CYPHER-SCORPION",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'XSCORPION-BOT:~' or 'SCORPION-X:~'.",
     "value": "",
     "required": false
   }
