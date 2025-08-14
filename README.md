@@ -6,7 +6,8 @@
   </a>
 </p>
   <p align="center">
-    Un bot WhatsApp multi-appareil. N'oubliez pas de laisser une ⭐ (star) pour le projet.
+     bot WhatsApp.
+    Don't forget to leave a ⭐ for the project 
 </p>
 
 <p align="center">
@@ -45,6 +46,9 @@
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
+#### PANEL METHOD 
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/jopaok228/CYPHER-SCORPION/archive/refs/heads/main.zip)
 
 ### 🌍 Rejoins ma Communauté 
 
