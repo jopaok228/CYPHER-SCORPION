@@ -5,7 +5,25 @@
     <img alt="CypherX docs" height="350" src="https://files.catbox.moe/hxuyj6.jpg">
   </a>
 </p>
-    
+  <p align="center">
+    Un bot WhatsApp multi-appareil. N'oubliez pas de laisser une ⭐ (star) pour le projet.
+</p>
+
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License" />
+    </a>
+    <a href="https://github.com/WhiskeySockets/Baileys">
+        <img src="https://img.shields.io/badge/Baileys-Web%20API-orange?style=flat-square" alt="Using Baileys Web API" />
+    </a>
+    <a href="https://github.com/jopaok228/CYPHER-SCORPION/stargazers">
+        <img src="https://img.shields.io/github/stars/jopaok228/CYPHER-SCORPION?style=flat-square" alt="Stars" />
+    </a>
+    <a href="https://github.com/jopaok228/CYPHER-SCORPION/network/members">
+        <img src="https://img.shields.io/github/forks/jopaok228/CYPHER-SCORPION?style=flat-square" alt="Forks" />
+    </a>
+</p>
+
 </a>
 </p>
 <p align="center">
